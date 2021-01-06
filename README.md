@@ -14,4 +14,4 @@ The sections mentioned on my portfolio are as follows:
  <li><a href="https://SundasNoreen.github.io/sundas/#affiliations">Affiliations</a></li>
  <li><a href="https://SundasNoreen.github.io/sundas/#contact">Contact Me</a></li></ul>
  
- ### Go and check it out and don't forget to give it a STAR🌟 if you like it. Also check some of my other repos and follow to get the latest updates ✨
+
