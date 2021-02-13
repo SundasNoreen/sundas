@@ -599,8 +599,8 @@ section {
 }
 #blog .tabgroup ul li img {
   float: left;
-  width:30px;
-  height:40px;
+  width:150px;
+  height:180px;
   margin-right: 30px;
   border-color: black;
   max-width: 100%;
