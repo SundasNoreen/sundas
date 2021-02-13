@@ -597,10 +597,6 @@ section {
   margin-bottom: 0px;
   padding-bottom: 10px;
 }
-#blog.tabgroup.item
-{
-   width:230px;
-  height:180px;}
 #blog .tabgroup ul li img {
   float: left;
   margin-right: 30px;
