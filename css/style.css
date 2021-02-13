@@ -596,6 +596,8 @@ section {
   border-bottom: none;
   margin-bottom: 0px;
   padding-bottom: 10px;
+   width:230px;
+  height:180px;
 }
 #blog .tabgroup ul li img {
   float: left;
